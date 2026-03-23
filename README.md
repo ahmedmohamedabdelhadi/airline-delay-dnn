@@ -251,9 +251,9 @@ Open and run notebooks `01` → `02` → `03` → `04` → `05` in sequence.
 
 **Ahmed Mohamed Abdelhady**
 
-- GitHub: (<https://github.com/ahmedmohamedabdelhadi>)
+- GitHub: [@ahmedmohamedabdelhadi](<https://github.com/ahmedmohamedabdelhadi>)
 - Kaggle: (<https://www.kaggle.com/ahmedmohamedabdelhadi>)
-- LinkedIn: (<https://linkedin.com/in/ahmed-mohamed-abdelhady/>)
+- LinkedIn: [ahmed-mohamed-abdelhady](<https://linkedin.com/in/ahmed-mohamed-abdelhady/>)
 
 ---
 
