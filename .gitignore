@@ -1,0 +1,59 @@
+# =============================================================
+# .gitignore — Airline Delay DNN Project
+# =============================================================
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# ----- Jupyter Notebooks -----
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ----- Data files (never commit raw data to GitHub) -----
+data/raw/*
+data/processed/*
+data/external/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+# ----- Model weights & checkpoints (too large for GitHub) -----
+models/checkpoints/*
+models/saved/*
+!models/checkpoints/.gitkeep
+!models/saved/.gitkeep
+
+# ----- Reports & figures (generated — can be reproduced) -----
+reports/figures/*
+!reports/figures/.gitkeep
+
+# ----- OS & editor files -----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ----- Environment & secrets -----
+.env
+.env.*
+secrets.yaml
+config/local_settings.py
+
+# ----- Logs -----
+logs/
+*.log
