@@ -249,9 +249,11 @@ Open and run notebooks `01` → `02` → `03` → `04` → `05` in sequence.
 
 ## Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+**Ahmed Mohamed Abdelhady**
+
+- GitHub: (<https://github.com/ahmedmohamedabdelhadi>)
+- Kaggle: (<https://www.kaggle.com/ahmedmohamedabdelhadi>)
+- LinkedIn: (<https://linkedin.com/in/ahmed-mohamed-abdelhady/>)
 
 ---
 
