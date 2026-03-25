@@ -162,11 +162,11 @@ SHAP Explainability ────── Global feature importance · Local predic
 
 | Model | MAE | RMSE | R² |
 |---|---|---|---|
-| Linear Regression (baseline) | — | — | — |
-| Ridge Regression | — | — | — |
-| Random Forest | — | — | — |
-| XGBoost | — | — | — |
-| **DNN (tuned)** | **—** | **—** | **—** |
+| Linear Regression (baseline) | 06468810029846998 | 0944137601653098 | 330017791702639 |
+| Ridge Regression | 06468810028658088 | 09441376015731269 | 3300177918161379 |
+| Random Forest | 06465935678750134 | 09378616925337432 | 3388952529139023 |
+| XGBoost | 06334353419312704 | 09299085401211328 | 3500601682989112 |
+| **DNN (tuned)** | **06165146827697754** | **09757318301700893** | **2844275236129761** |
 
 ---
 
