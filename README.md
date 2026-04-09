@@ -199,7 +199,7 @@ SHAP Explainability ────── Global feature importance · Local predic
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/airline-delay-dnn.git
+git clone https://github.com/ahmedmohamedabdelhadi/airline-delay-dnn.git
 cd airline-delay-dnn
 ```
 
